@@ -42,6 +42,6 @@ cd PRO
 
 python FB-KO.py
 
-Note: ( This Tools Are Paid, So You Need Permission To Use FB-KO MULTI-TOOL Tools Enjoy )
+Note: ( This Tools Are Paid, So You Need Permission To Use FB-KO PRO Tools Enjoy )
 
 Note: { Only BD User Knock On Whatsapp } Number > +8801917466867
