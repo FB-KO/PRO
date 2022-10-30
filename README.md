@@ -40,7 +40,7 @@ git clone https://github.com/FB-KO/PRO
 
 cd PRO
 
-python PRO.py
+python Pro.py
 
 Note: ( This Tools Are Paid, So You Need Permission To Use FB-KO PRO Tools Enjoy )
 
